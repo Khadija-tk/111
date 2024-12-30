@@ -1,0 +1,27 @@
+#one {
+    background-color: bisque;
+}
+
+#poem {
+    color: rgb(17, 17, 17);
+    margin-left: 250px;
+}
+
+pre{
+    margin-left: 200px;
+    font-size: larger;
+    font-weight: bold;
+  font-family: cursive;
+}
+
+#image {
+    float: right;
+}
+#line{
+    margin-left: 400px;
+    margin-right: 400px;
+   border-radius: 10px;
+ border: 3px solid;
+ color: black;
+
+}
